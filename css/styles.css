@@ -1,0 +1,7 @@
+header {
+  text-align: center; /* Centers the text */
+  font-size: 24px; /* Adjusts the text size */
+  font-weight: bold; /* Makes the text bold */
+  padding: 10px; /* Adds some space around the header */
+  border-bottom: 3px solid black; /* Creates a line under the header */
+}
